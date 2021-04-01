@@ -1,0 +1,247 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+header{
+	background-image: url(../vulkan.jpg);
+	height: 250vh;
+	background-size: cover;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type:none;
+	margin-top: 25px;
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 6px 20px;
+	border: 1px solid transparent;
+	transition: 0.5s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.logo img{
+	float:left;
+	width: 160px;
+	height:auto;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+} 
+.title{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.title h1{
+	color: #000;
+	font-size: 70px;
+}
+.button{
+	position: absolute;
+	top: 60%;
+	left: 9%;
+	transform: translate(-50%, -50%);
+}
+.btn{
+border: 2px solid #fff;
+padding: 20px 40px;
+color: #fff;
+text-decoration: none;	
+transition: 0.7s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+.paragraf1{
+	position: absolute;
+	top: 70%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.paragraf1:hover{
+	background-color:#000;
+	color: #fff;
+}
+.button2{
+	position: absolute;
+	top: 80%;
+	left: 8%;
+	transform: translate(-50%, -50%);
+}
+.btn2{
+border: 2px solid #fff;
+padding: 20px 40px;
+color: #fff;
+text-decoration: none;	
+transition: 0.7s ease;
+}
+.btn2:hover{
+	background-color: #fff;
+	color: #000;
+}
+.vulkan1 img{
+	float:left;
+	width: 450px;
+	height:400px;
+	position: absolute;
+	top: 105%;
+	left: 15%;
+	transform: translate(-50%, -50%);
+}
+.vulkan2 img{
+	float:left;
+	width: 450px;
+	height:400px;
+	position: absolute;
+	top: 105%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.vulkan3 img{
+	float:left;
+	width: 450px;
+	height:400px;
+	position: absolute;
+	top: 105%;
+	left: 85%;
+	transform: translate(-50%, -50%);
+}
+.button3{
+	position: absolute;
+	top: 130%;
+	left: 15%;
+	transform: translate(-50%, -50%);
+}
+.btn3{
+border: 2px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;	
+transition: 0.9s ease;
+}
+.btn3:hover{
+	background-color: #000;
+	color: #fff;
+}
+.button4{
+	position: absolute;
+	top: 130%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.btn4{
+border: 2px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;	
+transition: 0.9s ease;
+}
+.btn4:hover{
+	background-color: #000;
+	color: #fff;
+}
+.button5{
+	position: absolute;
+	top: 130%;
+	left: 85%;
+	transform: translate(-50%, -50%);
+}
+.btn5{
+border: 2px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;	
+transition: 0.9s ease;
+}
+.btn5:hover{
+	background-color: #000;
+	color: #fff;
+}
+.button6{
+	position: absolute;
+	top: 150%;
+	left: 15%;
+	transform: translate(-50%, -50%);
+}
+.btn6{
+border: 2px solid #fff;
+padding: 20px 50px;
+color: #fff;
+text-decoration: none;	
+transition: 0.9s ease;
+}
+.btn6:hover{
+	background-color: #fff;
+	color: #000;
+}
+.paragraf2{
+	position: absolute;
+	top: 170%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.paragraf2:hover{
+	background-color:#fff;
+	color: #000;
+}
+.paragraf3{
+	position: absolute;
+	top: 190%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.paragraf3:hover{
+	background-color:#fff;
+	color: #000;
+}
+.paragraf4{
+	position: absolute;
+	top: 210%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+}
+.paragraf4:hover{
+	background-color:#fff;
+	color: #000;
+}
+.button7{
+	position: absolute;
+	top: 230%;
+	left: 10%;
+	transform: translate(-50%, -50%);
+}
+.btn7{
+border: 2px solid #fff;
+padding: 20px 50px;
+color: #fff;
+text-decoration: none;	
+transition: 0.9s ease;
+}
+.btn7:hover{
+	background-color: #fff;
+	color: #000;
+}
+.adresa1{
+	position: absolute;
+	top: 240%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+}
+.adresa1:hover{
+	background-color:#000;
+	color: #fff;
